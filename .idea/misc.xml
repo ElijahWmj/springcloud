@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_hello_service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_ribbon_resttemplate_client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_hello_service001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_hello_service002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eureka_hello_service003/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_ribbon_resttemplate_client001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_feign_client/pom.xml" />
+        <option value="$PROJECT_DIR$/product/pom.xml" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_zuul/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

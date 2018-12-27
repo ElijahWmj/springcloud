@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="order" />
+        <module name="product" />
+        <module name="springcloud_config_server" />
+        <module name="springcloud_eureka_hello_service" />
+        <module name="springcloud_eureka_hello_service001" />
+        <module name="springcloud_eureka_hello_service002" />
+        <module name="springcloud_eureka_hello_service003" />
+        <module name="springcloud_eureka_server" />
+        <module name="springcloud_feign_client" />
+        <module name="springcloud_ribbon_resttemplate_client" />
+        <module name="springcloud_ribbon_resttemplate_client001" />
+        <module name="springcloud_zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
